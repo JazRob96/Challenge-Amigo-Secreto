@@ -54,7 +54,11 @@ Futuras mejoras previstas:
 
 
 -Función para realizar el sorteo "sorteoAmigo()"
+
+
 <img width="656" height="330" alt="ganador" src="https://github.com/user-attachments/assets/a21d2f5d-b37f-4777-b1ac-ed2270a579dd" />
+
+
 
 ---
 ## 🔑 Acceso al Proyecto
