@@ -47,8 +47,16 @@ function sortearAmigo(){
     return false;       
     }            
     let seleccion = document.getElementById('resultado');
-    seleccion.innerHTML=amigos[Math.floor(Math.random() * amigos.length)];
-    console.log(seleccion.innerHTML);    
+    seleccion.innerHTML=`Felicitaciones!✨🙌 " ${amigos[Math.floor(Math.random() * amigos.length)]} " ganaste el sorteo`;
+    console.log(seleccion.innerHTML);
+
+    document.getElementById('listaAmigos').innerHTML = "";
+        
+}
+
+function reiniciarSorteo(){
+    //document.querySelector('#listaAmigos').value='';
+    location.reload();      
 }
 
 
