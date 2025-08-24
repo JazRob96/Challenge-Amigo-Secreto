@@ -34,11 +34,6 @@ Permite agregar nombres de participantes, mostrar la lista de amigos, y realizar
 - Visualizar la lista de amigos ingresados.  
 - Realizar el sorteo aleatorio mostrando el nombre del ganador.  
 
-Futuras mejoras previstas:  
-- Permitir exportar el sorteo.  
-- Agregar estilos personalizados (temas navideños 🎄).  
-- Guardar lista de participantes en localStorage.  
-
 ---
 
 ## 🎬 Demostración de funciones y aplicaciones
