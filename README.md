@@ -59,7 +59,24 @@ Permite agregar nombres de participantes, mostrar la lista de amigos, y realizar
 ## 🔑 Acceso al Proyecto
 Puedes clonar este repositorio con el siguiente comando:  
 
-```bash
-git clone https://github.com/JazRob96/amigo-secreto.git
+//```bash
+[git clone https://github.com/JazRob96/amigo-secreto.git](https://github.com/JazRob96/Challenge-Amigo-Secreto.git)
+
 ---
-## :hammer:Funcionalidades del proyecto
+
+## 💻 Tecnologías utilizadas
+HTML5
+CSS3
+JavaScript (DOM, funciones aleatorias)
+
+---
+
+## Personas Contribuyentes
+JazRob96
+
+---
+
+## 📜 Licencia
+Este proyecto está bajo la licencia MIT.
+
+---
