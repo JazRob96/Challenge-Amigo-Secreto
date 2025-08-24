@@ -60,7 +60,7 @@ Permite agregar nombres de participantes, mostrar la lista de amigos, y realizar
 Puedes clonar este repositorio con el siguiente comando:  
 
 //```bash
-git clone https://github.com/JazRob96/amigo-secreto.git
+git clone https://github.com/JazRob96/Challenge-Amigo-Secreto.git
 
 ---
 
